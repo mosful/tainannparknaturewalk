@@ -82,7 +82,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "週末自然散步" },
-      { name: "description", content: "週末自然散步虛構教學活動" },
+      { name: "description", content: "週末自然散步虛構教學活動（台北101）" },
       { name: "author", content: "Lovable" },
       { property: "og:title", content: "週末自然散步" },
       { property: "og:description", content: "週末自然散步虛構教學活動" },
